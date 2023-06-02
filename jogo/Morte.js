@@ -1,0 +1,4 @@
+function mostraMorte(){
+    background(imgMorte);
+}
+
